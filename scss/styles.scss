@@ -34,19 +34,19 @@
 */
 
 // Define base and accent colors
-$base-color: #ec79c4;
+$base-color: #ec79c4 !default;
 $base-color-hover: darken($base-color, 10%);
 
 // Define background colors
-$background: #fff;
-$background-alt: #f2f2f5;
+$background: #fff !default;
+$background-alt: #f2f2f5 !default;
 
 // Define border colors
-$border: #ec79c4;
+$border: #ec79c4 !default;
 
 // Define text colors
-$heading: #374054;
-$text: #74808a;
+$heading: #374054 !default;
+$text: #74808a !default; 
 
 /*
     ---------------------
